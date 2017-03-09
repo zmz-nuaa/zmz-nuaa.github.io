@@ -18,6 +18,7 @@ favicon: favicon.png # Image must be in assets/images
 repository: github_username/github_username.github.io # ex. zmz-nuaa/zmz-nuaa.github.io
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
-# For production, use your github page url. ex. http://dongchuan.github.io
+# For production, use your github page url. ex. http://zmz-nuaa.github.io
+baseurl: /zmz-nuaa.github.io
 url: http://localhost:4000
 theme: jekyll-theme-cayman
