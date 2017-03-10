@@ -6,20 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yummy Theme # ex. I am Zhao-Mingzhe
-name: Your Name # ex. Zhao-Mingzhe
-email: my_email_address@lalala.com
-location: My location # ex. Nanjing, China
-company: MyCompany
+title: I am Zhao Mingzhe
+name: Zhao Mingzhe
+email: mingzhe_zh@hotmail.com
+location: Nanjing, China
+company: Huawei
 company_url: my_company_website
-github_url: my_github_url # ex. https://github.com/zmz-nuaa
-description: description_of_your_web_site
+github_url: https://github.com/zmz-nuaa
+description: This is my github page.
 favicon: favicon.png # Image must be in assets/images
-repository: github_username/github_username.github.io # ex. zmz-nuaa/zmz-nuaa.github.io
-# The base hostname & protocol for your site
-# For local test, please use http://localhost:4000
-# For production, use your github page url. ex. http://zmz-nuaa.github.io
-url: http://localhost:4000
+url: http://zmz-nuaa.github.io # the base hostname & protocol for your site
 
 ## Gem
 gems:
@@ -46,7 +42,7 @@ kramdown:
   enable_coderay: true
 
 # Disque
-disque: my_disque_settings # ex. httpdongchuangithubio.disqus.com
+disque: httpzmz-nuaagithubio.disqus.com
 
 # Pagination
 paginate: 10
