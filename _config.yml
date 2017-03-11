@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: I am Zhao Mingzhe
+title: website of zmz
 name: Zhao Mingzhe
 email: mingzhe_zh@hotmail.com
 location: Nanjing, China
 company: Huawei
-company_url: my_company_website
+company_url: http://www.huawei.com/cn
 github_url: https://github.com/zmz-nuaa
 description: This is my github page.
 favicon: favicon.png # Image must be in assets/images
@@ -55,16 +55,12 @@ navs:
     label: Home
 
   -
-    href: /open-source
-    label: Open-Source
+    href: /repositories
+    label: Repositories
 
   -
     href: /blog
     label: Blog
-
-  -
-    href: /bookmark
-    label: Bookmark
 
   -
     href: /about
@@ -81,7 +77,7 @@ analytics :
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
+skill_software_keywords: [C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
 skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
 skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
 skill_mobile_app_keywords: [Android, Sketch UI Desgin]
