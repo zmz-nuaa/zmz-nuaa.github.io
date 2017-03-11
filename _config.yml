@@ -55,8 +55,8 @@ navs:
     label: Home
 
   -
-    href: /repositories
-    label: Repositories
+    href: /projects
+    label: Projects
 
   -
     href: /blog
