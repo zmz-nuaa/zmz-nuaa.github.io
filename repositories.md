@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Open Source Projects
+title: My Projects
 menu: repositories
 css: ['repositories.css']
 javascript: ['underscore-min.js']
